@@ -77,4 +77,4 @@ def init(_path, _file_extension):
     print("End")
 
 
-init('/home/Workspace/java-project', ".xml")
+init('/home/Workspace/java-project', ".java")
